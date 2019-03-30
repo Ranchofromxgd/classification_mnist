@@ -1,5 +1,5 @@
 # classification_mnist
-Perform classification task of mnist dataset with pytorch
+Perform classification task on mnist dataset with pytorch
 
 Usage:
 ```
